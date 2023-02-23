@@ -1,1 +1,2 @@
-Site da Fruta e Fruto criado no curso de Arquitetura CSS
+projeto-fruta-e-fruto
+Arquivos do site Fruta e Fruto
